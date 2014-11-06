@@ -6,5 +6,4 @@ push
 branch
 merge
 pull
-fork
 clone
